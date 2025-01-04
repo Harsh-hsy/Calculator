@@ -5,7 +5,7 @@ The Calculator Web is a simple and efficient frontend project designed to provid
 ---
 
 ## 🚀 Live Demo
-Check out the live version of the project here: [Calculator Web](https://Harsh-hsy.github.io/calculator/)
+Check out the live version of the project here: [Calculator Web](https://harsh-hsy.github.io/Calculator/)
 
 ---
 
